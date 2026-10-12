@@ -1,0 +1,2 @@
+# premium-capacity-001-capacity-planning-resource-s
+The devops-runbook-management tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Capacity Planning &amp; Resource Scaling Threshold — fully configured and ready to use - Pre-
